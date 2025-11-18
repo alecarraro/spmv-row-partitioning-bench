@@ -1,4 +1,4 @@
-CC = gcc
+CC = g++
 CFLAGS = -fopenmp -lm
 SOURCES = src/main.c src/sparse_matrix_multiplication.c src/utils.c
 TARGET = build/matvec_mul
