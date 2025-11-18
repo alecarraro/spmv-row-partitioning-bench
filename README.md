@@ -1,4 +1,4 @@
-# Project Title: Parallel Matrix-Vector Multiplication
+# Partitioning Schemes for Parallel Matrix-Vector Multiplication
 
 ## Project Overview
 In this project I wanted to benchmark the performance of different partioning schemes for parallel sparse matrix-vector multiplication (SPMV) using the the Compressed Sparse Row (CSR) format. The algorithms are written in C and accelerated using OpenMP directives. The three partitioning schemes implemented in this project are:
