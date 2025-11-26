@@ -51,5 +51,8 @@ make              # Compiles the project
 Alternatively add the **`sparse_matrix_multiplication.h`** header to invoke the matrix vector multiplication functions or **`helper.h`** for the helper functions.
 
 ## References
-- [1] Gao, J., Ji, W., Chang, F., Han, S., Wei, B., Liu, Z., & Wang, Y. (2023). [A Systematic Survey of General Sparse Matrix-matrix Multiplication](https://doi.org/10.1145/3571157). *ACM Computing Surveys*, 55(12), Article 244. https://doi.org/10.1145/3571157
+- [1] Gao, J., Liu, B., Ji, W., & Huang, H. (2024). 
+  A Systematic Literature Survey of Sparse Matrix-Vector Multiplication. 
+  arXiv preprint. https://arxiv.org/abs/2404.06047
+
 - [2] Timothy A. Davis and Yifan Hu. 2011. The University of Florida Sparse Matrix Collection. ACM Transactions on Mathematical Software 38, 1, Article 1 (December 2011), 25 pages. DOI: https://doi.org/10.1145/2049662.2049663
